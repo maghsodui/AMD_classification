@@ -1,0 +1,13 @@
+Dataset Information:
+
+Local dataset:
+- 3195 retinal fundus images
+- 2070 AMD suspect images
+- 1125 healthy images
+
+STARE dataset:
+- 201 retinal images
+- 47 AMD images
+- 36 healthy images
+
+All images were captured using TOPCON fundus camera.
