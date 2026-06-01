@@ -1,0 +1,21 @@
+Project Title:
+Decision Support System for Age-Related Macular Degeneration Using CNN
+
+Objective:
+To develop an automated system for classification of AMD and healthy retinal fundus images.
+
+Method:
+- Convolutional Neural Network (LeNet-based architecture)
+- Image preprocessing and augmentation
+- Training using MATLAB MatConvNet
+
+Datasets:
+- Local dataset (Iran University of Medical Sciences)
+- STARE dataset
+
+Results:
+- Accuracy (Local dataset): 0.95
+- Accuracy (STARE dataset): 0.81
+
+Significance:
+This work demonstrates the potential of deep learning for early detection of retinal diseases and supports clinical decision-making in ophthalmology.
