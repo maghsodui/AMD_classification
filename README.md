@@ -1,4 +1,4 @@
-# Retinal-images
+# AMD_classification
 Decision Support System for Age-Related Macular Degeneration Using Convolutional Neural Networks
 
 
